@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Import>
+  <ImportSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ImportFileFormat="Xml" MatchFoundAction="Unspecified" MatchNotFoundAction="Unspecified" UnrecognizedPropertyOption="Unspecified" ContentDetailExceptionOption="Unspecified" BubbleEventsOption="Unspecified" IsUpgradeOption="IsUpgrade" FileDispositionOption="Unspecified" BinaryFileDispositionOption="Unspecified" SkipRecordCount="0" MaximumRecordCount="0" UseSaxon="false">
+    <SinkPath />
+    <ExceptionFilePath />
+    <AltBinariesPath />
+    <TransformURL />
+    <TransformFileWrapper />
+    <LocalizablePropertyLocale>en-US</LocalizablePropertyLocale>
+  </ImportSettings>
+  <ContentTypes>
+    <ContentType name="Documents" id="usrct_document_50495">
+      <Records>
+        <Record>
+          <PropertyValues>
+            <PropertyValue name="Abstract" id="abstract_50496">Evaluates project to decentralize educational planning in Peru. Final Evaluation covers the period 1975-81 and consists of a PES facesheet referring to the attached special evaluation (XD-AAL-475-A).</PropertyValue>
+            <PropertyValue name="Ancilary Data" id="ancilary_data_50497">Attachment: XD-AAL-475-A</PropertyValue>
+            <PropertyValue name="Ancilary Data" id="ancilary_data_50497">Evaluation period: 1975-1981</PropertyValue>
+            <PropertyValue name="ARDA Subject Category" id="arda_subject_category_50498" />
+            <PropertyValue name="ARDA Volume and Issue" id="arda_volume_and_issue_50499" />
+            <PropertyValue name="Personal Author" id="personal_author_50500">Krueger, Christine</PropertyValue>
+            <PropertyValue name="Personal Author" id="personal_author_50500">White, Paul E.</PropertyValue>
+            <PropertyValue name="Personal Author" id="personal_author_50500">Cruz-DePaula, Danilo</PropertyValue>
+            <PropertyValue name="Availability" id="availability_50501">Microfiche not available -- poor quality type</PropertyValue>
+            <PropertyValue name="Bibliographic Type Code" id="bibliographic_type_code_50502">21</PropertyValue>
+            <PropertyValue name="Bibliographic Level" id="bibliographic_level_50503">M</PropertyValue>
+            <PropertyValue name="Bibtype Name" id="bibtype_name_50504">Evaluation Summary</PropertyValue>
+            <PropertyValue name="CD Number" id="cd_number_50505" />
+            <PropertyValue name="CD Fulltext Database" id="cd_fulltext_database_50506" />
+            <PropertyValue name="CD Fulltext Contributing Office" id="cd_fulltext_contributing_office_50507" />
+            <PropertyValue name="Cost of Electronic Copy" id="cost_of_electronic_copy_50509" />
+            <PropertyValue name="Cost of Microfiche" id="cost_of_microfiche_50510" />
+            <PropertyValue name="Cost of Paper Copy" id="cost_of_paper_copy_50511" />
+            <PropertyValue name="Date Abstracted and Indexed" id="date_abstracted_and_indexed_50512">10/15/1982 12:00:00 AM</PropertyValue>
+            <PropertyValue name="Date Cataloging Proofed" id="date_cataloging_proofed_50514">9/1/1982 12:00:00 AM</PropertyValue>
+            <PropertyValue name="Date Indexed Only" id="date_indexed_only_50515">12/31/2007 12:00:00 AM</PropertyValue>
+            <PropertyValue name="Date Processing Complete" id="date_bib_processing_completed_50516">12/31/2007 12:00:00 AM</PropertyValue>
+            <PropertyValue name="Date of Publication Freeforrm" id="date_of_publication_freeforrm_50518">14 Jul 1982</PropertyValue>
+            <PropertyValue name="Date of Publication Fixed" id="date_of_publication_fixed_50519">1982-07</PropertyValue>
+            <PropertyValue name="Date Sent Abstracting Indexing" id="date_sent_abstracting_indexing_50523">9/8/1982 12:00:00 AM</PropertyValue>
+            <PropertyValue name="Descriptions from Thesaurus" id="primary_descriptors_50525">Educational planning</PropertyValue>
+            <PropertyValue name="Descriptions from Thesaurus" id="primary_descriptors_50525">Educational policy</PropertyValue>
+            <PropertyValue name="Descriptions from Thesaurus" id="primary_descriptors_50525">National level</PropertyValue>
+            <PropertyValue name="Descriptors Geographic" id="geographic_descriptors_50527">Peru</PropertyValue>
+            <PropertyValue name="Document ID" id="document_order_number_50529">PD-AAL-475</PropertyValue>
+            <PropertyValue name="Edition" id="edition_50530" />
+            <PropertyValue name="Entered By" id="entered_by_50531" />
+            <PropertyValue name="Total Evaluation Cost" id="total_evaluation_cost_50810" />
+            <PropertyValue name="Exclude from Prjdoc View" id="exclude_from_prjdoc_view_50811">False</PropertyValue>
+            <PropertyValue name="File Format" id="format_50812">P</PropertyValue>
+            <PropertyValue name="File Size" id="fulltext_file_size_50814" />
+            <PropertyValue name="File Software and Version" id="fulltext_software_and_version_50815" />
+            <PropertyValue name="Fulltext" id="fulltext_50816" />
+            <PropertyValue name="USAID Geography Code" id="aid_geographic_code_50817">527</PropertyValue>
+            <PropertyValue name="USAID Geography Name" id="aid_geo_name_50818">Peru</PropertyValue>
+            <PropertyValue name="Related Object Link" id="related_object_link_50819" />
+            <PropertyValue name="New Thesaurus Terms" id="identifiers_50820">Limited data</PropertyValue>
+            <PropertyValue name="New Thesaurus Terms" id="identifiers_50820">Final EOPS</PropertyValue>
+            <PropertyValue name="New Thesaurus Terms" id="identifiers_50820">Pre evaluation data</PropertyValue>
+            <PropertyValue name="Institution Authority Code" id="institution_authority_code_50821">008591</PropertyValue>
+            <PropertyValue name="Institution Name" id="institution_name_50822">USAID. Mission to Peru</PropertyValue>
+            <PropertyValue name="Institution Role" id="institution_role_50823">A</PropertyValue>
+            <PropertyValue name="Inventory Location" id="inventory_location_50824">DST/W-21/08231</PropertyValue>
+            <PropertyValue name="Language of Text" id="language_of_text_50827">English</PropertyValue>
+            <PropertyValue name="Mime Type" id="mime_type_50828" />
+            <PropertyValue name="Notation" id="notation_50829">E75.T</PropertyValue>
+            <PropertyValue name="Notation" id="notation_50829">P03.89</PropertyValue>
+            <PropertyValue name="Notation" id="notation_50829">E75.V</PropertyValue>
+            <PropertyValue name="Notation" id="notation_50829">J05.7</PropertyValue>
+            <PropertyValue name="Notation" id="notation_50829">G06.2B.2C</PropertyValue>
+            <PropertyValue name="Notation" id="notation_50829">G06.2B.R</PropertyValue>
+            <PropertyValue name="NTIS Number" id="ntis_number_50830" />
+            <PropertyValue name="Stategic Objective Number" id="objective_id_50833" />
+            <PropertyValue name="Pagination" id="pagination_50834" />
+            <PropertyValue name="Collation Notes" id="collation_notes_50835" />
+            <PropertyValue name="Prepped By" id="prepped_by_50836" />
+            <PropertyValue name="Project Number" id="project_number__7_digit_50837">5270158</PropertyValue>
+            <PropertyValue name="Project9 Prime Dve Activity" id="project9_prime_dve_activity_50838">5270158</PropertyValue>
+            <PropertyValue name="Project Sub Number" id="project_sub_number_50839">00</PropertyValue>
+            <PropertyValue name="REC_NO" id="rec_no_50840">1</PropertyValue>
+            <PropertyValue name="Report Number" id="report_number_50842">PES no. 527-82-2</PropertyValue>
+            <PropertyValue name="Batch" id="batch_50843" />
+            <PropertyValue name="Box" id="box_50844" />
+            <PropertyValue name="Primary Subject" id="subject_prime_category_50847" />
+            <PropertyValue name="Document Title" id="document_title_50848">Decentralizing education planning</PropertyValue>
+            <PropertyValue name="Abstract or Index" id="abstract_or_index_50853" />
+            <PropertyValue name="ABIN load Check Field" id="abin_load_check_field_50854">1PD-AAL-475</PropertyValue>
+            <PropertyValue name="USAID Project Number" id="usaid_project_number_50855">5270158</PropertyValue>
+            <PropertyValue name="Institution or USAID Bureau Author" id="institution_or_usaid_bureau_author_50935">008591 - USAID. Mission to Peru</PropertyValue>
+            <PropertyValue name="Restricted to USAID Only" id="restricted_to_usaid_only_50938">False</PropertyValue>
+            <PropertyValue name="Language ISO1 Code" id="language_iso1_code_52495">En</PropertyValue>
+            <PropertyValue name="Class" id="class_52496" />
+            <PropertyValue name="Category" id="Category">Notation|Notation Collection|G|G06|G06.2|G06.2B|G06.2B.R</PropertyValue>
+            <PropertyValue name="Category" id="Category">Notation|Notation Collection|J|J05|J05.7</PropertyValue>
+            <PropertyValue name="Category" id="Category">Thesaurus|Thesaurus Collection|Management|Management operations|Planning|Educational planning</PropertyValue>
+            <PropertyValue name="Category" id="Category">Thesaurus|Thesaurus Collection|Education|Educational administration|Educational planning</PropertyValue>
+            <PropertyValue name="Category" id="Category">Thesaurus|Thesaurus Collection|Education|Educational administration|Educational policy</PropertyValue>
+            <PropertyValue name="Category" id="Category">Notation|Notation Collection|E|E75|E75.V</PropertyValue>
+            <PropertyValue name="Category" id="Category">Document Type|Document Type Collection|Evaluation (all; inc. Assessments)|Evaluation Summary</PropertyValue>
+            <PropertyValue name="Category" id="Category">Notation|Notation Collection|G|G06|G06.2|G06.2B|G06.2B.2|G06.2B.2C</PropertyValue>
+            <PropertyValue name="Category" id="Category">Thesaurus|Thesaurus Collection|Geographical areas and countries|America|Latin America|South America|Andean region|Peru</PropertyValue>
+            <PropertyValue name="Category" id="Category">Notation|Notation Collection|E|E75|E75.T</PropertyValue>
+            <PropertyValue name="Category" id="Category">Notation|Notation Collection|P|P03|P03.8|P03.89</PropertyValue>
+            <PropertyValue name="Category" id="Category">Thesaurus|Thesaurus Collection|Geographical areas and countries|America|Latin America|South America|Peru</PropertyValue>
+            <PropertyValue name="Category" id="Category">Thesaurus|Thesaurus Collection|Government and law|Geopolitical levels|National level</PropertyValue>
+            <PropertyValue name="ContentItemLanguage" id="ContentItemLanguage" />
+            <PropertyValue name="Active" id="Active">True</PropertyValue>
+            <PropertyValue name="File Processed" id="File_Processed_68f65286dc4b41fda33c5a027f2f75c7">False</PropertyValue>
+            <PropertyValue name="Selected for Cataloguing" id="Selected_for_Cataloguing_cf114defbe4242008a827e21d24ca84a">False</PropertyValue>
+            <PropertyValue name="Not Selected for Cataloguing" id="Not_Selected_for_Cataloguing_6f1e615ebc074aa6bb535421eb4b046b">False</PropertyValue>
+            <PropertyValue name="Proofed" id="Proofed_42345ca7f1644acfa5c6107970cf0917">False</PropertyValue>
+            <PropertyValue name="Indexed" id="Indexed_11ae604951a143709a8efce556bd9013">False</PropertyValue>
+            <PropertyValue name="Processing Complete" id="Processing_Complete_016875350d114d078e00cba6fc4f0a1a">False</PropertyValue>
+            <PropertyValue name="Restricted" id="Restricted_7078688b1042475086e4e062f7eebb3b" />
+            <PropertyValue name="inmCreatedBy" id="inmCreatedBy">Guest</PropertyValue>
+          </PropertyValues>
+        </Record>
+      </Records>
+    </ContentType>
+  </ContentTypes>
+</Import>
